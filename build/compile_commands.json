@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/rpthibeault/Documents/mylib/build",
+  "command": "/usr/bin/cc -I/home/rpthibeault/Documents/mylib/src -o CMakeFiles/mylib_test.dir/main.c.o -c /home/rpthibeault/Documents/mylib/main.c",
+  "file": "/home/rpthibeault/Documents/mylib/main.c",
+  "output": "CMakeFiles/mylib_test.dir/main.c.o"
+},
+{
+  "directory": "/home/rpthibeault/Documents/mylib/build",
+  "command": "/usr/bin/cc -D_GNU_SOURCE -I/home/rpthibeault/Documents/mylib/src -o CMakeFiles/mylib.dir/main.c.o -c /home/rpthibeault/Documents/mylib/main.c",
+  "file": "/home/rpthibeault/Documents/mylib/main.c",
+  "output": "CMakeFiles/mylib.dir/main.c.o"
+}
+]

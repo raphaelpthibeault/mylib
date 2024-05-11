@@ -1,9 +1,9 @@
 [
 {
   "directory": "/home/rpthibeault/Documents/mylib/build",
-  "command": "/usr/bin/cc -I/home/rpthibeault/Documents/mylib/src -o CMakeFiles/mylib_test.dir/main.c.o -c /home/rpthibeault/Documents/mylib/main.c",
-  "file": "/home/rpthibeault/Documents/mylib/main.c",
-  "output": "CMakeFiles/mylib_test.dir/main.c.o"
+  "command": "/usr/bin/c++ -I/home/rpthibeault/Documents/mylib/src -o CMakeFiles/mylib_test.dir/tests/str_h_tests.cpp.o -c /home/rpthibeault/Documents/mylib/tests/str_h_tests.cpp",
+  "file": "/home/rpthibeault/Documents/mylib/tests/str_h_tests.cpp",
+  "output": "CMakeFiles/mylib_test.dir/tests/str_h_tests.cpp.o"
 },
 {
   "directory": "/home/rpthibeault/Documents/mylib/build",
